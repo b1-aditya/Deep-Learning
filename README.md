@@ -25,4 +25,4 @@ Baseline binary image classifier built from scratch using a custom Sequential CN
 
 Data Science enthusiast skilled in Python, SQL, Power BI, Machine Learning, NLP, and Deep Learning.
 
-🔗 [LinkedIn](#) | 🔗 [Portfolio](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-sharma-b34692202/) | 🔗 [Portfolio](https://github.com/b1-aditya)
