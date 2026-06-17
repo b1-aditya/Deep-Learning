@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Projects
+# 🧠 Deep Learning Projects >|
 
 A collection of deep learning projects covering computer vision and model deployment.
 
